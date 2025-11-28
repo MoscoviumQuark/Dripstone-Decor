@@ -1,0 +1,10 @@
+{
+  "values": [
+    "dripstonedecor:dripstone_wall",
+    "dripstonedecor:calcite_wall",
+    "dripstonedecor:smooth_basalt_wall",
+    "dripstonedecor:gilded_blackstone_wall",
+    "dripstonedecor:end_stone_wall",
+    "dripstonedecor:packed_mud_wall"
+  ]
+}
