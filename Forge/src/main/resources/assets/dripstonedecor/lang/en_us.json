@@ -1,0 +1,20 @@
+{
+  "block.dripstonedecor.dripstone_stairs": "Dripstone Stairs",
+  "block.dripstonedecor.dripstone_slab": "Dripstone Slab",
+  "block.dripstonedecor.dripstone_wall": "Dripstone Wall",
+  "block.dripstonedecor.calcite_stairs": "Calcite Stairs",
+  "block.dripstonedecor.calcite_slab": "Calcite Slab",
+  "block.dripstonedecor.calcite_wall": "Calcite Wall",
+  "block.dripstonedecor.smooth_basalt_stairs": "Smooth Basalt Stairs",
+  "block.dripstonedecor.smooth_basalt_slab": "Smooth Basalt Slab",
+  "block.dripstonedecor.smooth_basalt_wall": "Smooth Basalt Wall",
+  "block.dripstonedecor.gilded_blackstone_stairs": "Gilded Blackstone Stairs",
+  "block.dripstonedecor.gilded_blackstone_slab": "Gilded Blackstone Slab",
+  "block.dripstonedecor.gilded_blackstone_wall": "Gilded Blackstone Wall",
+  "block.dripstonedecor.end_stone_stairs": "End Stone Stairs",
+  "block.dripstonedecor.end_stone_slab": "End Stone Slab",
+  "block.dripstonedecor.end_stone_wall": "End Stone Wall",
+  "block.dripstonedecor.packed_mud_stairs": "Packed Mud Stairs",
+  "block.dripstonedecor.packed_mud_slab": "Packed Mud Slab",
+  "block.dripstonedecor.packed_mud_wall": "Packed Mud Wall"
+}
