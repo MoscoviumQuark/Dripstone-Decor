@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:packed_mud"
+    }
+  },
+  "result": {
+    "count": 4,
+    "item": "dripstonedecor:packed_mud_stairs"
+  }
+}
