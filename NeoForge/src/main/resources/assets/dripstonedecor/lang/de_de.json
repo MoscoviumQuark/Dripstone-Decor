@@ -1,0 +1,20 @@
+{
+  "block.dripstonedecor.dripstone_stairs": "Tropfsteintreppe",
+  "block.dripstonedecor.dripstone_slab": "Tropfsteinstufe",
+  "block.dripstonedecor.dripstone_wall": "Tropfsteinmauer",
+  "block.dripstonedecor.calcite_stairs": "Kalzittreppe",
+  "block.dripstonedecor.calcite_slab": "Kalzitstufe",
+  "block.dripstonedecor.calcite_wall": "Kalzitmauer",
+  "block.dripstonedecor.smooth_basalt_stairs": "Glatter Basalttreppe",
+  "block.dripstonedecor.smooth_basalt_slab": "Glatter Basaltstufe",
+  "block.dripstonedecor.smooth_basalt_wall": "Glatter Basaltmauer",
+  "block.dripstonedecor.gilded_blackstone_stairs": "Golddurchzogener Schwarzsteintreppe",
+  "block.dripstonedecor.gilded_blackstone_slab": "Golddurchzogener Schwarzsteinstufe",
+  "block.dripstonedecor.gilded_blackstone_wall": "Golddurchzogener Schwarzsteinmauer",
+  "block.dripstonedecor.end_stone_stairs": "Endsteintreppe",
+  "block.dripstonedecor.end_stone_slab": "Endsteinstufe",
+  "block.dripstonedecor.end_stone_wall": "Endsteinmauer",
+  "block.dripstonedecor.packed_mud_stairs": "Fester Schlamm Treppe",
+  "block.dripstonedecor.packed_mud_slab": "Fester Schlamm Stufe",
+  "block.dripstonedecor.packed_mud_wall": "Fester Schlamm Mauer"
+}

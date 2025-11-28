@@ -1,0 +1,20 @@
+{
+  "block.dripstonedecor.dripstone_stairs": "Droppstenstrappa",
+  "block.dripstonedecor.dripstone_slab": "Droppstensplatta",
+  "block.dripstonedecor.dripstone_wall": "Droppstensmur",
+  "block.dripstonedecor.calcite_stairs": "Kalcittrappa",
+  "block.dripstonedecor.calcite_slab": "Kalcitplatta",
+  "block.dripstonedecor.calcite_wall": "Kalcitsmur",
+  "block.dripstonedecor.smooth_basalt_stairs": "Len basalttrappa",
+  "block.dripstonedecor.smooth_basalt_slab": "Len basaltplatta",
+  "block.dripstonedecor.smooth_basalt_wall": "Len basaltmur",
+  "block.dripstonedecor.gilded_blackstone_stairs": "Förgylld svartstenstrappa",
+  "block.dripstonedecor.gilded_blackstone_slab": "Förgylld svartstensplatta",
+  "block.dripstonedecor.gilded_blackstone_wall": "Förgylld svartstensmur",
+  "block.dripstonedecor.end_stone_stairs": "Endstentrappa",
+  "block.dripstonedecor.end_stone_slab": "Endstensplatta",
+  "block.dripstonedecor.end_stone_wall": "Endstenmur",
+  "block.dripstonedecor.packed_mud_stairs": "Packad gyttja trappa",
+  "block.dripstonedecor.packed_mud_slab": "Packad gyttja platta",
+  "block.dripstonedecor.packed_mud_wall": "Packad gyttja mur"
+}
