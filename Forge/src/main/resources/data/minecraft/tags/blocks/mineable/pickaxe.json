@@ -1,0 +1,22 @@
+{
+  "values": [
+    "dripstonedecor:dripstone_slab",
+    "dripstonedecor:dripstone_stairs",
+    "dripstonedecor:dripstone_wall",
+    "dripstonedecor:calcite_slab",
+    "dripstonedecor:calcite_stairs",
+    "dripstonedecor:calcite_wall",
+    "dripstonedecor:smooth_basalt_slab",
+    "dripstonedecor:smooth_basalt_stairs",
+    "dripstonedecor:smooth_basalt_wall",
+    "dripstonedecor:gilded_blackstone_slab",
+    "dripstonedecor:gilded_blackstone_stairs",
+    "dripstonedecor:gilded_blackstone_wall",
+    "dripstonedecor:end_stone_slab",
+    "dripstonedecor:end_stone_stairs",
+    "dripstonedecor:end_stone_wall",
+    "dripstonedecor:packed_mud_slab",
+    "dripstonedecor:packed_mud_stairs",
+    "dripstonedecor:packed_mud_wall"
+  ]
+}
