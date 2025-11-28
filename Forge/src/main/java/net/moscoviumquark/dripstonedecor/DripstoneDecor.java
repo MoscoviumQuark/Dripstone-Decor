@@ -3,6 +3,7 @@ package net.moscoviumquark.dripstonedecor;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.item.Items;
+import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -31,8 +32,10 @@ public class DripstoneDecor
         MinecraftForge.EVENT_BUS.register(this);
         modEventBus.addListener(this::addCreative);
     }
+
     private void commonSetup(final FMLCommonSetupEvent event) {
     }
+
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             //1st one is what to put the block after in the inventory, 2nd is the block itself.
@@ -44,7 +47,7 @@ public class DripstoneDecor
                     .get().asItem().getDefaultInstance(), CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
             event.getEntries().putAfter(ModBlocks.CALCITE_SLAB.get().asItem().getDefaultInstance(), ModBlocks.CALCITE_WALL
                     .get().asItem().getDefaultInstance(), CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
-            event.getEntries().putAfter(Items.TUFF.getDefaultInstance(), Items.DRIPSTONE_BLOCK.getDefaultInstance()
+            event.getEntries().putAfter(Items.CHISELED_TUFF_BRICKS.getDefaultInstance(), Items.DRIPSTONE_BLOCK.getDefaultInstance()
                     , CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
             event.getEntries().putAfter(Items.DRIPSTONE_BLOCK.getDefaultInstance(), ModBlocks.DRIPSTONE_STAIRS
                     .get().asItem().getDefaultInstance(), CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
@@ -80,14 +83,16 @@ public class DripstoneDecor
                     .get().asItem().getDefaultInstance(), CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
         }
     }
+
     @SubscribeEvent
     public void onServerStarting(ServerStartingEvent event) {
-    
+    }
 
     @Mod.EventBusSubscriber(modid = MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
     public static class ClientModEvents {
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event) {
+
         }
     }
 }
